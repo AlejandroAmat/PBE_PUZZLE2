@@ -1,0 +1,5 @@
+button { background-image: -gtk-gradient(radial, center center, 0, center center, 1, from(red), to(yellow)); }
+button text {color: #000000;}
+button:hover { background-image: -gtk-gradient (radial, center center, 0, center center, 1, from(cyan), to(magenta)); }
+
+window{ background-color: #c39bd3   ;} 
